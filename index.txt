@@ -3,26 +3,26 @@ some analysis of the data
 Q1. total patients -> 918
 
 Q2. how many have heart disease
-yes -> 461
-no -> 457
+yes - 461
+no - 457
 
 Q3. male and female count
-male -> 625
-female -> 293
+male - 625
+female - 293
 
-Q4. avg cholesterol -> 197.32
+Q4. avg cholesterol - 197.32
 
-Q5. oldest age -> 77
-youngest age -> 28
+Q5. oldest age - 77
+youngest age - 28
 
 Q6. avg max heart rate
-with disease -> 133.07
-without disease -> 136.37
+with disease - 133.07
+without disease - 136.37
 
 Q7. heart disease % by st slope
-down -> 58%
-flat -> 54%
-up -> 44%
+down - 58%
+flat - 54%
+up - 44%
 
 how i saved the model
 pip install joblib
