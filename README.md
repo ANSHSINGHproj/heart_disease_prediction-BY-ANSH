@@ -1,10 +1,6 @@
 # heart_disease_prediction-BY-ANSH
 heart-disease-prediction
 
-# heart_disease_prediction-BY-ANSH
-
-heart-disease-prediction
-
 This is a simple app I made to check heart disease risk.
 
 You give some basic info like age, gender, chest pain type, cholesterol, ECG result, max heart rate, ST slope etc. and it tells you if there is risk of heart disease or not.
