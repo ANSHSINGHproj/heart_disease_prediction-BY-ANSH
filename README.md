@@ -14,13 +14,12 @@ Live app link: https://heartdiseaseprediction-by-ansh-cnyvknwp7er9bm3rvir5p5.str
 
 -Files in this project-
 
- app.py - main streamlit app code
-
-requirements.txt - libraries needed to run the app
-model.joblib - trained model
-cp_encoder.joblib - encoder for chest pain type
-ecg_encoder.joblib - encoder for resting ECG
-data.csv - original dataset
-final_data.csv - cleaned dataset
-index.ipynb - notebook where I trained the model
-index.txt - some basic analysis notes of the data
+- app.py - main streamlit app code
+- requirements.txt - libraries needed to run the app
+- model.joblib - trained model
+- cp_encoder.joblib - encoder for chest pain type
+- ecg_encoder.joblib - encoder for resting ECG
+- data.csv - original dataset
+- final_data.csv - cleaned dataset
+- index.ipynb - notebook where I trained the model
+- index.txt - some basic analysis notes of the data
